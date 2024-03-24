@@ -1,3 +1,9 @@
+/*
+Daniel Balser
+Array Generator Class
+ */
+package addone;
+
 import java.util.Random;
 import java.util.Scanner;
 

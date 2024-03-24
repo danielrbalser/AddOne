@@ -1,3 +1,9 @@
+/*
+Daniel Balser 
+Array Printer Class
+ */
+package addone;
+
 public class ArrayPrinter {
     public static void printArrays(Integer[] originalArray, Integer[] incrementedArray) {
         System.out.println("Original array:");

@@ -1,3 +1,8 @@
+/*
+Helper Class
+ */
+package addone;
+
 public class Helper {
     public static void processAndPrintIncrementedArray() {
         // Generate a random array

@@ -1,3 +1,9 @@
+/*
+Daniel Balser
+User Input Handler Class
+ */
+package addone;
+
 import java.util.Scanner;
 
 public class UserInputHandler {
